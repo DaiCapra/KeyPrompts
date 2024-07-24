@@ -1,0 +1,16 @@
+{
+    "name": "KeyPrompts.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dd0fe66398d9741408918f8f4b4bc943"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

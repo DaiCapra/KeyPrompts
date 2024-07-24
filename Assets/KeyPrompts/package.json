@@ -1,0 +1,9 @@
+{
+	"name":"com.artmann.keyprompts",
+	"version":"1.0.0",
+	"displayName":"Key Prompts",
+	"dependencies":
+	{
+		"com.unity.nuget.newtonsoft-json": "3.2.1"
+	}
+}
